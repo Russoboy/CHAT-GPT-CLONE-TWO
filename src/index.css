@@ -1,0 +1,11 @@
+/* index.css */
+body {
+  background-color: #343541;
+  color: #ececf1;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+input, button {
+  font-size: 1rem;
+}
