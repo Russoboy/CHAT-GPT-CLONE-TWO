@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Note: It’s currently down due to “Insufficient Credit” — thanks to some payment hiccups. 
+
+The Fix?
+- Just hop onto [OpenRouter.com](https://openrouter.ai/) , search for the DeepSeek API endpoint, and grab your own API key 🔑 to get it back in action.
+- Despite the glitch, I’m super proud of how far this little side project has come 
